@@ -4,6 +4,19 @@ DS Style is a Nintendo DS-inspired launcher originally made for the GBA. This po
 
 DS Style uses your installed stock emulators, core choices, settings and saves.
 
+Adds Russian as the ninth interface language.
+
+- Russian translations in source/locale.json and the regenerated locale header.
+- 66 Cyrillic glyphs appended to font-latin.bin; the existing Latin glyphs are unchanged.
+- UTF-8-safe title and notice wrapping.
+- Tests updated for nine languages and Cyrillic rendering.
+
+Tested with:
+- python tests/test_v215.py
+- python tests/test_v1.py --shell ... --preview ...
+- python tools/check_defaults.py
+- python tools/package.py
+
 *For the RG SP running stock OS.*
 
 ## Download and install
