@@ -46,7 +46,7 @@ DS Style uses the same game artwork as stock OS. Install it as usual in each sys
 - Folder search; press **X** while browsing.
 - Shared stock favourites and recent history.
 - Stock RetroArch and Game Rooms launch routes; change a system's route with **START** on the Systems list. Core selections are read from stock when launching.
-- Seven language choices: English, French, German, Spanish, Portuguese, Italian and Dutch.
+- Seven language choices: English, French, German, Spanish, Portuguese, Italian, Dutch and Russian.
 - A secret Snake game tucked away in About.
 
 ## Customise
